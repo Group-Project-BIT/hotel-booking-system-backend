@@ -1,3 +1,3 @@
 # hotel-booking-system-backend
-> Server run
+Server run:
 > npm start
